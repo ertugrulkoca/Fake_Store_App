@@ -1,5 +1,6 @@
 # Fake Store App
- 
+I created this project using mvvm architecture and mobx.
+I used fakestoreapi.com as REST API.
 ## Screenshots
 | Home Screen Light | Home Screen Dark | List by Category | 
 | ----------------- | ---------------- | ---------------- |

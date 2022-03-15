@@ -29,12 +29,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  #network
   dio: ^4.0.4
+  #state management
   mobx: ^2.0.6+1
   flutter_mobx: ^2.0.4
   mobx_codegen: ^2.0.5+2
-  # json_serializable: ^6.1.5
-  # json_annotation: ^4.4.0
 
 
   # The following adds the Cupertino Icons font to your application.
